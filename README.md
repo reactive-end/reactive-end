@@ -1,17 +1,8 @@
-# Mi Nombre es Rafael Pisani
+# Rafael Pisani
+Web/Mobile Developer
 
-Soy Desarrollador Web con 4 años de experiencia
+* I Fockin love JavaScript (also TypeScript)
+* I also work with a little PHP and Laravel (Especially with Laravel)
+* I'm cat & dog lover
 
-* Desarrollo FrontEnd (HTML, CSS, Tailwind, Bootstrap, Javascript, React, Svelte, Astro, Next.js)
-
-* Desarrollo BackEnd (Node.js, Express, PHP, Laravel, Python)
-
-* Desarrollo Movil (React Native)
-
-* Testing (PHPUnit, Vitest)
-
-* GIT y GitHub
-
-* Experiencia en Desarrollo e implementación de API, manejo de bases de datos SQL y NoSQL
-
-[Visita mi Perfil de X](https://twitter.com/reactive_end)
+I really need a job, send me a message for my services
